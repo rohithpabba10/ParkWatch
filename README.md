@@ -70,14 +70,6 @@ npm start
 
 ---
 
-## 📸 Screenshots
-
-(Add your screenshots in the screenshots/ folder and update paths below)
-
-![Home Page](screenshots/home.png)
-![Dashboard](screenshots/dashboard.png)
-
----
 
 ## 🚀 Future Enhancements
 
